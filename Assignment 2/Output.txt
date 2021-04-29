@@ -1,0 +1,79 @@
+Enter your choice:
+1. Add Student
+2. List Student
+3. Add Department
+4. List Department
+5. Remove Student
+6. Remove Department
+7. Exit
+1
+ Enter Student Details
+Enter name: Neha
+Enter age: 20
+Enter gender: Female
+Enter address: 23 ABC Lane,Kolkata
+Enter your choice:
+1. Add Student
+2. List Student
+3. Add Department
+4. List Department
+5. Remove Student
+6. Remove Department
+7. Exit
+2
+Sudent details:
+Name: Neha, Age: 20, Gender: Female, Address: 23 ABC Lane,Kolkata
+Enter your choice:
+1. Add Student
+2. List Student
+3. Add Department
+4. List Department
+5. Remove Student
+6. Remove Department
+7. Exit
+3
+Enter Dept Details
+Enter name: CSE
+Enter HOD: AmitPal
+Enter your choice:
+1. Add Student
+2. List Student
+3. Add Department
+4. List Department
+5. Remove Student
+6. Remove Department
+7. Exit
+4
+Department details:
+Name: CSE, HOD: AmitPal
+Enter your choice:
+1. Add Student
+2. List Student
+3. Add Department
+4. List Department
+5. Remove Student
+6. Remove Department
+7. Exit
+5
+Student deletion
+ Enter index: 0
+Enter your choice:
+1. Add Student
+2. List Student
+3. Add Department
+4. List Department
+5. Remove Student
+6. Remove Department
+7. Exit
+6
+Department deletion
+ Enter index: 0
+Enter your choice:
+1. Add Student
+2. List Student
+3. Add Department
+4. List Department
+5. Remove Student
+6. Remove Department
+7. Exit
+7
